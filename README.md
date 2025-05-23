@@ -9,7 +9,7 @@ A differential equation is an equation that relates a function with one or more 
 
 * **[Higher-Order Differential Equations](./Higher-Order_Differential_Equations.ipynb)** – Extending concepts to third-order and beyond.
 
-* **Laplace Transform** – Using transforms to solve differential equations efficiently.
+* **[Laplace Transform](./Laplace_Transform.ipynb)** – Using transforms to solve differential equations efficiently.
 
 * **Systems of Differential Equations** – Solving multiple equations simultaneously.
 
