@@ -5,7 +5,7 @@ A differential equation is an equation that relates a function with one or more 
 
 * **[First-Order Differential Equations](./First-Order_Differential_Equations.ipynb)** – Methods like separation of variables, integrating factors, and exact equations.
 
-* **Second-Order Differential Equations** – Homogeneous and non-homogeneous cases, characteristic equations, and applications.
+* **[Second-Order Differential Equations](./Second-Order_Differential_Equations.ipynb)** – Homogeneous and non-homogeneous cases, characteristic equations, and applications.
 
 * **Higher-Order Differential Equations** – Extending concepts to third-order and beyond.
 
