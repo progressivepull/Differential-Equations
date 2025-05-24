@@ -13,6 +13,6 @@ A differential equation is an equation that relates a function with one or more 
 
 * **[Systems of Differential Equations](./Systems_of_Differential_Equations.ipynb)** – Solving multiple equations simultaneously.
 
-* **Numerical Methods** – Approximate solutions using Euler’s method and Runge-Kutta techniques.
+* **[Numerical Methods](./Numerical_Methods.ipynb)** – Approximate solutions using Euler’s method and Runge-Kutta techniques.
 
 * **Applications** – Real-world problems in physics, engineering, and economics.
