@@ -15,4 +15,4 @@ A differential equation is an equation that relates a function with one or more 
 
 * **[Numerical Methods](./Numerical_Methods.ipynb)** – Approximate solutions using Euler’s method and Runge-Kutta techniques.
 
-* **Applications** – Real-world problems in physics, engineering, and economics.
+* **[Applications](./Applications.ipynb)** – Real-world problems in physics, engineering, and economics.
