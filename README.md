@@ -11,7 +11,7 @@ A differential equation is an equation that relates a function with one or more 
 
 * **[Laplace Transform](./Laplace_Transform.ipynb)** – Using transforms to solve differential equations efficiently.
 
-* **Systems of Differential Equations** – Solving multiple equations simultaneously.
+* **[Systems of Differential Equations](./Systems_of_Differential_Equations.ipynb)** – Solving multiple equations simultaneously.
 
 * **Numerical Methods** – Approximate solutions using Euler’s method and Runge-Kutta techniques.
 
